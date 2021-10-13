@@ -5634,9 +5634,9 @@ figcaption {
 
   .quote-wrapper {
     width: 100%;
-    padding-right: 20px;
+    padding-right: 0px;
     padding-bottom: 54px;
-    padding-left: 20px;
+    padding-left: 0px;
   }
 
   .submit-button {
@@ -5657,6 +5657,9 @@ figcaption {
 
   .fb-button.bottom-btn {
     margin-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 14px;
   }
 
   .youtube-button {
@@ -5677,6 +5680,9 @@ figcaption {
 
   .submit-button-pm.bottom-btn {
     margin-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 14px;
   }
 
   .club-button-pm-copy {
@@ -5687,6 +5693,9 @@ figcaption {
 
   .club-button-pm-copy.bottom-btn {
     margin-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 14px;
   }
 }
 
