@@ -4468,6 +4468,10 @@ figcaption {
   background-color: #be0e4c;
 }
 
+.text-span-3 {
+  font-weight: 600;
+}
+
 @media screen and (max-width: 991px) {
   .section.cc-product-detail {
     -webkit-box-orient: vertical;
