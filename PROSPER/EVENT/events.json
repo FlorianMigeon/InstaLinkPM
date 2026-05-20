@@ -16,9 +16,9 @@
     "title_en": "Lobster & Jazz Night",
     "date": "2026-07-02",
     "description_fr": "Une soirée élégante et gourmande autour du homard grillé, portée par une ambiance jazz live, au cœur des vignes du Château de Saint-Aubin.",
-    "description_en": "An elegant and gourmet evening featuring grilled lobster, accompanied by live jazzzz, in the heart of the vineyards at Château de Saint-Aubin.",
+    "description_en": "An elegant and gourmet evening featuring grilled lobster, accompanied by live jazz, in the heart of the vineyards at Château de Saint-Aubin.",
     "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/a1203703-2887-4129-809f-0a1855cf4a42?step=experienceDetail&utm_source=restaurantprosper.fr",
     "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/homard-jazz.jpg",
-    "showBanner": true
+    "showBanner": false
   }
 ]
