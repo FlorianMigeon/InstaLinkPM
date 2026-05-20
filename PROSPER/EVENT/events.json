@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title_fr": "Soirée Rock & Boeuf",
+    "title_en": "Rock & Meat Evening",
+    "date": "2026-06-11",
+    "description_fr": "Une soirée conviviale et festive autour du brasero avec une ambiance rock live, au bord des vignes du Château de Saint-Aubin.",
+    "description_en": "A fun and festive evening around the fire pit with live rock music, set among the vineyards of Château de Saint-Aubin.",
+    "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/a1203703-2887-4129-809f-0a1855cf4a42?step=experienceDetail&utm_source=restaurantprosper.fr",
+    "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/rock-boeuf.jpg",
+    "showBanner": true
+  },
+  {
+    "id": "2",
+    "title_fr": "Soirée Homard & Jazz",
+    "title_en": "Lobster & Jazz Night",
+    "date": "2026-07-02",
+    "description_fr": "Une soirée élégante et gourmande autour du homard grillé, portée par une ambiance jazz live, au cœur des vignes du Château de Saint-Aubin.",
+    "description_en": "An elegant and gourmet evening featuring grilled lobster, accompanied by live jazz, in the heart of the vineyards at Château de Saint-Aubin.",
+    "reservationUrl": "https://#",
+    "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/homard-jazz.jpg",
+    "showBanner": false
+  }
+]
