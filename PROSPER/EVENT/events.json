@@ -31,16 +31,16 @@
     "_exemple_10": "    \"showBanner\": true",
     "_exemple_11": "  }"
   },
- {
-    "id": "3",
-    "title_fr": "Dîner Oriental",
-    "title_en": "Oriental Dinner",
-    "date": "2026-09-19",
-    "description_fr": "Embarquez pour un voyage au cœur de l'Orient le temps d'une soirée d'exception, entre cuisine raffinée, ambiance orientale et cadre enchanteur du Château de Saint-Aubin.",
-    "description_en": "Embark on a journey to the heart of the Orient during an exceptional evening, where refined cuisine, captivating oriental entertainment, and the enchanting setting of Château de Saint-Aubin create an unforgettable experience.",
-    "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/e8be0d79-8f82-4a9c-a2a7-255bd3510615?step=experienceDetail&utm_source=restaurantprosper.fr",
-    "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/oriental.png",
-    "showBanner": true
+{
+    "id": "1",
+    "title_fr": "Soirée Rock & Boeuf",
+    "title_en": "Rock & Meat Evening",
+    "date": "2026-06-11",
+    "description_fr": "Une soirée conviviale et festive autour du brasero avec une ambiance rock live, au bord des vignes du Château de Saint-Aubin.",
+    "description_en": "A fun and festive evening around the fire pit with live rock music, set among the vineyards of Château de Saint-Aubin.",
+    "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/a1203703-2887-4129-809f-0a1855cf4a42?step=experienceDetail&utm_source=restaurantprosper.fr",
+    "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/rock-boeuf.png",
+    "showBanner": false
   }
 {
     "id": "2",
@@ -53,15 +53,16 @@
     "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/homard-jazz.png",
     "showBanner": false
   }
-{
-    "id": "1",
-    "title_fr": "Soirée Rock & Boeuf",
-    "title_en": "Rock & Meat Evening",
-    "date": "2026-06-11",
-    "description_fr": "Une soirée conviviale et festive autour du brasero avec une ambiance rock live, au bord des vignes du Château de Saint-Aubin.",
-    "description_en": "A fun and festive evening around the fire pit with live rock music, set among the vineyards of Château de Saint-Aubin.",
-    "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/a1203703-2887-4129-809f-0a1855cf4a42?step=experienceDetail&utm_source=restaurantprosper.fr",
-    "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/rock-boeuf.png",
-    "showBanner": false
+
+ {
+    "id": "3",
+    "title_fr": "Dîner Oriental",
+    "title_en": "Oriental Dinner",
+    "date": "2026-09-19",
+    "description_fr": "Embarquez pour un voyage au cœur de l'Orient le temps d'une soirée d'exception, entre cuisine raffinée, ambiance orientale et cadre enchanteur du Château de Saint-Aubin.",
+    "description_en": "Embark on a journey to the heart of the Orient during an exceptional evening, where refined cuisine, captivating oriental entertainment, and the enchanting setting of Château de Saint-Aubin create an unforgettable experience.",
+    "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/e8be0d79-8f82-4a9c-a2a7-255bd3510615?step=experienceDetail&utm_source=restaurantprosper.fr",
+    "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/oriental.png",
+    "showBanner": true
   }
 ]
