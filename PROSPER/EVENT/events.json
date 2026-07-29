@@ -41,7 +41,7 @@
     "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/a1203703-2887-4129-809f-0a1855cf4a42?step=experienceDetail&utm_source=restaurantprosper.fr",
     "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/rock-boeuf.png",
     "showBanner": false
-  }
+  },
 {
     "id": "2",
     "title_fr": "Soirée Homard & Jazz",
@@ -52,8 +52,7 @@
     "reservationUrl": "https://widget.thefork.com/fr/e88cbc97-f6e8-468e-bf6b-7891d16faa50/offers/d8148cf1-7ead-4c1c-8dc2-b7bb8efab272?step=experienceDetail&utm_source=restaurantprosper.fr",
     "imageUrl": "https://link.prosper-maufoux.com/PROSPER/EVENT/homard-jazz.png",
     "showBanner": false
-  }
-
+  },
  {
     "id": "3",
     "title_fr": "Dîner Oriental",
